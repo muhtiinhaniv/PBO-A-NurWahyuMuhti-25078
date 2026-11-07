@@ -1,0 +1,12 @@
+{
+    "name": "univpancasila/perpustakaan",
+    "require": {
+        "php": ">=8.3",
+        "nesbot/carbon": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Perpustakaan\\": "src/"
+        }
+    }
+}
